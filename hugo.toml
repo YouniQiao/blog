@@ -1,0 +1,9 @@
+baseURL = 'https://youniqiaofu.com/'
+languageCode = 'zh'
+title = '油腻樵夫'
+theme = 'mini'
+defaultContentLanguage = 'zh'
+
+[params]
+  bio = 'Technical Writer'
+  author = '油腻樵夫'
